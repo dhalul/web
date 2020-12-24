@@ -1,7 +1,7 @@
 # Site
 name: "Personal Blog"
 title: "dhal.dev"
-description: "Every good deed is charity"
+description: '"Every good deed is charity"'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
